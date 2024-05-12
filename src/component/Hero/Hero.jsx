@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
           <div className="flex-none w-full xl:w-[70%] pb-16">
             <div className=" flex-none md:flex items-center ">
-              <div className="flex">
+              <div className="flex items-center">
                 <button className="px-[10px] rounded-sm bg-[#FFE072] mr-2 md:mr-[17px]">
                   Bestseller
                 </button>
